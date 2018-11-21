@@ -1,2 +1,1 @@
 # git-course
-új sor
